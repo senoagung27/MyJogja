@@ -1,0 +1,212 @@
+{
+    "items": [
+        {
+            "namaKategori": "Wisata",
+            "leaf": false,
+            "items": [
+                {
+                    "namaKategori": "Wisata Alam",
+                    "namaFile": "wisataalam",
+                    "leaf": true
+                },
+                {
+                    "namaKategori": "Wisata Sejarah",
+                    "namaFile": "wisatasejarah",
+                    "leaf": true
+                },
+                {
+                    "namaKategori": "Museum dan Monumen",
+                    "namaFile": "museumdanmonumen",
+                    "leaf": true
+                },
+                {
+                    "namaKategori": "Desa Wisata",
+                    "namaFile": "desawisata",
+                    "leaf": true
+                },
+                {
+                    "namaKategori": "Wisata Pendidikan",
+                    "namaFile": "wisatapendidikan",
+                    "leaf": true
+                }
+            ]
+        },
+        {
+            "namaKategori": "Kuliner",
+            "leaf": false,
+            "items": [
+                {
+                    "namaKategori": "Kuliner Khas",
+                    "namaFile": "kulinerkhas",
+                    "leaf": true
+                },
+                {
+                    "namaKategori": "Restoran",
+                    "namaFile": "restoran",
+                    "leaf": true
+                },
+                {
+                    "namaKategori": "Cafe",
+                    "namaFile": "cafe",
+                    "leaf": true
+                }
+            ]
+        },
+        {
+            "namaKategori": "Belanja",
+            "leaf": false,
+            "items": [
+                {
+                    "namaKategori": "Pusat Oleh-Oleh",
+                    "namaFile": "pusatoleholeh",
+                    "leaf": true
+                },
+                {
+                    "namaKategori": "Pusat Kerajinan",
+                    "namaFile": "pusatkerajinan",
+                    "leaf": true
+                },
+                {
+                    "namaKategori": "Pasar Traditional",
+                    "namaFile": "pasartradisional",
+                    "leaf": true
+                },
+                {
+                    "namaKategori": "Mall dan Plaza",
+                    "namaFile": "malldanplaza",
+                    "leaf": true
+                },
+                {
+                    "namaKategori": "Mini Market",
+                    "namaFile": "minimarket",
+                    "leaf": true
+                },
+                {
+                    "namaKategori": "Toko Buku",
+                    "namaFile": "tokobuku",
+                    "leaf": true
+                },
+                {
+                    "namaKategori": "Toko Handphone",
+                    "namaFile": "tokohandphone",
+                    "leaf": true
+                },
+                {
+                    "namaKategori": "Toko Elektronik",
+                    "namaFile": "tokokeletronik",
+                    "leaf": true
+                },
+                {
+                    "namaKategori": "Toko Komputer",
+                    "namaFile": "tokokomputer",
+                    "leaf": true
+                }
+            ]
+        },     
+        {
+            "namaKategori": "Penginapan",
+            "leaf": false,
+            "items": [
+                {
+                    "namaKategori": "Hotel Bintang",
+                    "namaFile": "hotelbintang",
+                    "leaf": true
+                },
+                {
+                    "namaKategori": "Hotel Melati",
+                    "namaFile": "hotelmelati",
+                    "leaf": true
+                },
+                {
+                    "namaKategori": "Homestay dan Gusthouse",
+                    "namaFile": "homestaydanguesthouse",
+                    "leaf": true
+                },
+                {
+                    "namaKategori": "Villa",
+                    "namaFile": "villa",
+                    "leaf": true
+                },{
+                    "namaKategori": "Losmen",
+                    "namaFile": "losmen",
+                    "leaf": true
+                },{
+                    "namaKategori": "Resort",
+                    "namaFile": "resort",
+                    "leaf": true
+                },{
+                    "namaKategori": "Kost",
+                    "namaFile": "kost",
+                    "leaf": true
+                },
+                {
+                    "namaKategori": "Asrama Mahasiswa",
+                    "namaFile": "asramamahasiswa",
+                    "leaf": true
+                }
+            ]
+        }, 
+        {
+            "namaKategori": "Transportasi",
+            "leaf": false,
+            "items": [
+                {
+                    "namaKategori": "Trans Jogja",
+                    "namaFile": "transjogja",
+                    "leaf": true
+                },
+                {
+                    "namaKategori": "Bus Kota",
+                    "namaFile": "buskota",
+                    "leaf": true
+                },
+                {
+                    "namaKategori": "Taksi",
+                    "namaFile": "taksi",
+                    "leaf": true
+                },
+                {
+                    "namaKategori": "Ojek",
+                    "namaFile": "ojek",
+                    "leaf": true
+                }
+            ]
+        },   
+        {
+            "namaKategori": "Info Umum",
+            "leaf": false,
+            "items": [
+                {
+                    "namaKategori": "Bank dan ATM",
+                    "namaFile": "bankdanatm",
+                    "leaf": true
+                },
+                {
+                    "namaKategori": "Money Changer",
+                    "namaFile": "moneychanger",
+                    "leaf": true
+                },
+                {
+                    "namaKategori": "Kantor Polisi",
+                    "namaFile": "kantorpolisi",
+                    "leaf": true
+                },
+                {
+                    "namaKategori": "Rumah Sakit",
+                    "namaFile": "rumahsakit",
+                    "leaf": true
+                },
+                {
+                    "namaKategori": "Mesjid",
+                    "namaFile": "mesjid",
+                    "leaf": true
+                },
+                {
+                    "namaKategori": "Warnet",
+                    "namaFile": "warnet",
+                    "leaf": true
+                }
+            ]
+        }
+    ]
+}
